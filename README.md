@@ -1,15 +1,13 @@
 # ObjectRekognition
 
-                                                Object Rekognition
-This project is to provides information for detecting objects and calculating price and quantity , object name.
- The object recognition problem can be defined as a labeling problem based on models of known objects. Formally, given an image containing one or more objects of interest (and background) and a set of labels corresponding to a set of models known to the system, the system should assign correct labels to regions, or a set of regions, in the image. The object recognition problem is closely tied to the segmentation problem: without at least a partial recognition of objects, segmentation cannot be done, and without segmentation, object recognition is not possible. 
-
- 
-
-For example, Amazon Rekognition Image is able to detect the presence of a objects and also provide the percentage of object. It has in the accuracy of each detected label.
- 
-A label or a tag is an object, scene, or concept found in an image based on its contents. For example, a photo of drink cokes on a Basket may contain labels. We calculate the price, quantity and object name.  We can also look at the request to the API and the response from the API as a reference
-Object Representation:
+                                                Object Rekognition & Billing
+This project is to developed  information for detecting objects and calculating price and quantity, object name.
+Object Recognition & Billing has an important role in image processing and Computer vision field. It is the process of determining the identity of an object being observed in an image from a set of known tags with the help of a recognition technique. Object recognition has many applications in the field of recognition, surveillance, industrial inspection, content based image retrieval(CBIR), robotics, medical analysis, human-computer interaction, intelligent vehicle systems etc. Object recognition becomes tedious due to the positioning, scaling, alignment and occlusion of objects. Indoor and outdoor images for same object can have varying lighting condition. Occlusion is the condition when an object is not fully visible in an image. An efficient object recognition method should be capable of handling such difficulties. The key objective is to develop object recognition  & Billing techniques which are efficient and less complex.
+We use this application in many grocery supermarkets like Big Bazar. The billing personnel have to manipulate either the reader or the objects. This makes the task tedious for the human worker. Each object has to be scanned individually taking much time and making the task monotonous for the billing personnel especially in big stores where hundreds of customers
+turn up in a day and thousands of objects have to be scanned in a day. In the modern era, the people have more income to spend and lesser time to spare, so they generally choose supermarkets for grocery and other shopping rather than local shops. Actually the customer is free to choose products from huge available varieties which attract the large customers mainly in big cities so long queues of customers are seen at these stores.  The advancements in technology have led to high speed computers with excellent processors and storage
+capacity. The Object recognition & Billing can be used to develop an application for real time
+automated billing to ease laborious human work. 
+Thus this automated Object recognition and billing  system was thus developed and real time implementation was done for multiple objects. The recognition rate comes out to be 100% the customized database which is better than accuracy.
 
 Images represent a scene from a camera's perspective. It appears natural to represent objects in a camera-centric, or viewer-centered, coordinate system. Another possibility is to represent objects in an object-centered coordinate system. Of course, one may represent objects in a world coordinate system also. Since it is easy to transform from one coordinate system to another using their relative positions, the central issue in selecting the proper coordinate system to represent objects is the ease of representation to allow the most efficient representation for feature detection and subsequent processes. 
 A representation allows certain operations to be efficient at the cost of other operations. Representations for object recognition are no exception. Designers must consider the parameters in their design problems to select the best representation for the task. 
