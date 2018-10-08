@@ -1,4 +1,4 @@
-# ObjectRekognition
+# ObjectRekognition & Billing
 
                                                 Object Rekognition & Billing
 This project is to developed  information for detecting objects and calculating price and quantity, object name.
