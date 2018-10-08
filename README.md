@@ -9,8 +9,7 @@ capacity. The Object recognition & Billing can be used to develop an application
 automated billing to ease laborious human work. 
 Thus this automated Object recognition and billing  system was thus developed and real time implementation was done for multiple objects. The recognition rate comes out to be 100% the customized database which is better than accuracy.
 
-Images represent a scene from a camera's perspective. It appears natural to represent objects in a camera-centric, or viewer-centered, coordinate system. Another possibility is to represent objects in an object-centered coordinate system. Of course, one may represent objects in a world coordinate system also. Since it is easy to transform from one coordinate system to another using their relative positions, the central issue in selecting the proper coordinate system to represent objects is the ease of representation to allow the most efficient representation for feature detection and subsequent processes. 
-A representation allows certain operations to be efficient at the cost of other operations. Representations for object recognition are no exception. Designers must consider the parameters in their design problems to select the best representation for the task. 
+
 How to Detect Objects :
 You can upload an image that you own or provide the URL to an image as input in the Amazon Rekognition console. Amazon Rekognition returns the object and scenes, confidence scores for each object, and scene it detects in the image you provide.
 Note
